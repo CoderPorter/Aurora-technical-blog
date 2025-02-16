@@ -5,8 +5,8 @@
     
     <entry>
       <title>我的第一篇笔记</title>
-      <link href="/2025/02/16/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E7%AC%94%E8%AE%B0/"/>
-      <url>/2025/02/16/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E7%AC%94%E8%AE%B0/</url>
+      <link href="/2025/02/16/wo-de-di-yi-pian-bi-ji/"/>
+      <url>/2025/02/16/wo-de-di-yi-pian-bi-ji/</url>
       
         <content type="html"><![CDATA[<h2 id="Hexo使用手册"><a href="#Hexo使用手册" class="headerlink" title="Hexo使用手册"></a>Hexo使用手册</h2><ul><li>启动本地Hexo hexo server -d<ul><li>admin网址：<a href="http://localhost:4000/admin">http://localhost:4000/admin</a></li><li>blog地址：<a href="http://localhost:4000/">http://localhost:4000/</a></li></ul></li><li>将代码同步到gitee仓库 <figure class="highlight java"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo clean &amp;&amp; hexo g &amp;&amp; hexo d</span><br></pre></td></tr></tbody></table></figure></li><li>本地部署<figure class="highlight java"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo clean &amp;&amp; hexo g &amp;&amp; hexo s</span><br></pre></td></tr></tbody></table></figure></li><li>文章显示背景图，封面方法<figure class="highlight plaintext"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br></pre></td><td class="code"><pre><span class="line">title: Hello World        # 标题</span><br><span class="line">tags: [hello]             # 标签</span><br><span class="line">categories:               # 分类</span><br><span class="line">description: hello word~  # 描述</span><br><span class="line">top_img: /img/hello-1.png # 顶部背景图</span><br><span class="line">cover: /img/hello-1.png   # 文章封面</span><br><span class="line"></span><br><span class="line">---</span><br><span class="line">title: typora-vue-theme主题介绍</span><br><span class="line">date: 2018-09-07 09:25:00</span><br><span class="line">author: 赵奇</span><br><span class="line">img: /source/images/xxx.jpg</span><br><span class="line">top: true</span><br><span class="line">cover: true</span><br><span class="line">coverImg: /images/1.jpg</span><br><span class="line">password: 8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92</span><br><span class="line">toc: false</span><br><span class="line">mathjax: false</span><br><span class="line">summary: 这是你自定义的文章摘要内容，如果这个属性有值，文章卡片摘要就显示这段文字，否则程序会自动截取文章的部分内容作为摘要</span><br><span class="line">categories: Markdown</span><br><span class="line">tags:</span><br><span class="line">  - Typora</span><br><span class="line">  - Markdown</span><br><span class="line">---</span><br></pre></td></tr></tbody></table></figure></li></ul>]]></content>
       
@@ -30,8 +30,8 @@
     
     <entry>
       <title>第三篇</title>
-      <link href="/2025/02/16/%E7%AC%AC%E4%B8%89%E7%AF%87/"/>
-      <url>/2025/02/16/%E7%AC%AC%E4%B8%89%E7%AF%87/</url>
+      <link href="/2025/02/16/di-san-pian/"/>
+      <url>/2025/02/16/di-san-pian/</url>
       
         <content type="html"><![CDATA[<p>你好</p>]]></content>
       
@@ -43,8 +43,8 @@
     
     <entry>
       <title>第二篇</title>
-      <link href="/2025/02/16/%E7%AC%AC%E4%BA%8C%E7%AF%87/"/>
-      <url>/2025/02/16/%E7%AC%AC%E4%BA%8C%E7%AF%87/</url>
+      <link href="/2025/02/16/di-er-pian/"/>
+      <url>/2025/02/16/di-er-pian/</url>
       
         <content type="html"><![CDATA[<p>你好，我是第二篇文章</p>]]></content>
       

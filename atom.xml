@@ -18,8 +18,8 @@
   
   <entry>
     <title>我的第一篇笔记</title>
-    <link href="http://example.com/2025/02/16/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E7%AC%94%E8%AE%B0/"/>
-    <id>http://example.com/2025/02/16/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E7%AC%94%E8%AE%B0/</id>
+    <link href="http://example.com/2025/02/16/wo-de-di-yi-pian-bi-ji/"/>
+    <id>http://example.com/2025/02/16/wo-de-di-yi-pian-bi-ji/</id>
     <published>2025-02-16T09:46:00.000Z</published>
     <updated>2025-02-16T10:20:38.747Z</updated>
     
@@ -44,8 +44,8 @@
   
   <entry>
     <title>第三篇</title>
-    <link href="http://example.com/2025/02/16/%E7%AC%AC%E4%B8%89%E7%AF%87/"/>
-    <id>http://example.com/2025/02/16/%E7%AC%AC%E4%B8%89%E7%AF%87/</id>
+    <link href="http://example.com/2025/02/16/di-san-pian/"/>
+    <id>http://example.com/2025/02/16/di-san-pian/</id>
     <published>2025-02-16T07:59:35.000Z</published>
     <updated>2025-02-16T07:59:36.167Z</updated>
     
@@ -65,8 +65,8 @@
   
   <entry>
     <title>第二篇</title>
-    <link href="http://example.com/2025/02/16/%E7%AC%AC%E4%BA%8C%E7%AF%87/"/>
-    <id>http://example.com/2025/02/16/%E7%AC%AC%E4%BA%8C%E7%AF%87/</id>
+    <link href="http://example.com/2025/02/16/di-er-pian/"/>
+    <id>http://example.com/2025/02/16/di-er-pian/</id>
     <published>2025-02-16T04:08:00.000Z</published>
     <updated>2025-02-16T04:08:52.372Z</updated>
     
