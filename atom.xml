@@ -42,15 +42,16 @@
     <link href="http://example.com/2023/10/01/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E7%AC%94%E8%AE%B0/"/>
     <id>http://example.com/2023/10/01/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E7%AC%94%E8%AE%B0/</id>
     <published>2023-09-30T16:00:00.000Z</published>
-    <updated>2025-02-16T03:15:02.667Z</updated>
+    <updated>2025-02-16T06:51:01.136Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="这是标题"><a href="#这是标题" class="headerlink" title="这是标题"></a>这是标题</h2><pre><code class="java">public class HelloWorld &#123;    public static void main(String[] args) &#123;        System.out.println(&quot;Hello Hexo!&quot;);    &#125;&#125;</code></pre>]]></content>
+    <content type="html"><![CDATA[<h2 id="Hexo使用手册"><a href="#Hexo使用手册" class="headerlink" title="Hexo使用手册"></a>Hexo使用手册</h2><ul><li>启动本地Hexo hexo server -d<ul><li>admin网址：<a href="http://localhost:4000/admin">http://localhost:4000/admin</a></li><li>blog地址：<a href="http://localhost:4000/">http://localhost:4000/</a></li></ul></li><li>将代码同步到gitee仓库 <figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo clean &amp;&amp; hexo g &amp;&amp; hexo d</span><br></pre></td></tr></table></figure></li></ul>]]></content>
     
     
       
       
-    <summary type="html">&lt;h2 id=&quot;这是标题&quot;&gt;&lt;a href=&quot;#这是标题&quot; class=&quot;headerlink&quot; title=&quot;这是标题&quot;&gt;&lt;/a&gt;这是标题&lt;/h2&gt;&lt;pre&gt;&lt;code class=&quot;java&quot;&gt;public class HelloWorld &amp;#123;
-    public</summary>
+    <summary type="html">&lt;h2 id=&quot;Hexo使用手册&quot;&gt;&lt;a href=&quot;#Hexo使用手册&quot; class=&quot;headerlink&quot; title=&quot;Hexo使用手册&quot;&gt;&lt;/a&gt;Hexo使用手册&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;启动本地Hexo hexo server -d&lt;ul&gt;
+&lt;li&gt;admin网址：</summary>
       
     
     
