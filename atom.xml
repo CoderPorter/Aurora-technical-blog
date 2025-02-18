@@ -3,11 +3,11 @@
   <title>Auroraの技术博客</title>
   
   <subtitle>Java程序员的博客日志</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://coderporter.github.io/Aurora-technical-blog/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://coderporter.github.io/Aurora-technical-blog/"/>
   <updated>2025-02-17T14:05:02.341Z</updated>
-  <id>http://example.com/</id>
+  <id>https://coderporter.github.io/Aurora-technical-blog/</id>
   
   <author>
     <name>Aurora</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hexo使用手册</title>
-    <link href="http://example.com/2025/02/16/wo-de-di-yi-pian-bi-ji/"/>
-    <id>http://example.com/2025/02/16/wo-de-di-yi-pian-bi-ji/</id>
+    <link href="https://coderporter.github.io/Aurora-technical-blog/2025/02/16/wo-de-di-yi-pian-bi-ji/"/>
+    <id>https://coderporter.github.io/Aurora-technical-blog/2025/02/16/wo-de-di-yi-pian-bi-ji/</id>
     <published>2025-02-16T09:46:00.000Z</published>
     <updated>2025-02-17T14:05:02.341Z</updated>
     
@@ -35,10 +35,10 @@
     
     
     
-    <category term="博客" scheme="http://example.com/categories/%E5%8D%9A%E5%AE%A2/"/>
+    <category term="博客" scheme="https://coderporter.github.io/Aurora-technical-blog/categories/%E5%8D%9A%E5%AE%A2/"/>
     
     
-    <category term="Hexo" scheme="http://example.com/tags/Hexo/"/>
+    <category term="Hexo" scheme="https://coderporter.github.io/Aurora-technical-blog/tags/Hexo/"/>
     
   </entry>
   
